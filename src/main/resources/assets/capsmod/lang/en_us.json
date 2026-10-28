@@ -1,0 +1,13 @@
+{
+	"key.capsmod.open": "Open Caps Menu",
+	"key.category.capsmod.main": "Caps Mod",
+	"screen.capsmod.title": "Caps",
+	"screen.capsmod.no_cap": "No Cap",
+	"screen.capsmod.open_folder": "Open Caps Folder",
+	"screen.capsmod.reload": "Reload Caps",
+	"screen.capsmod.prev": "< Prev",
+	"screen.capsmod.next": "Next >",
+	"screen.capsmod.done": "Done",
+	"screen.capsmod.hint": "Put your own cap .png files in the Caps Folder, then press Reload Caps.",
+	"screen.capsmod.hint2": "Press F5 to see your cap. Only you can see it (client-side mod)."
+}
